@@ -1,6 +1,8 @@
 # My Portfolio Website
 
-Welcome to my portfolio website! This repository contains the source code of my personal site, which is hosted on GitHub Pages.
+Welcome to my portfolio website! This repository contains the source code of my personal site, which is hosted on AWS Amplify.
+
+https://staging.d3cistbx04jv7s.amplifyapp.com/
 
 ## Forking and Customization
 
